@@ -20,7 +20,7 @@
     "test.watch": "jest --watch"
   },
   "dependencies": {
-    "postcss": "~7.0.17"
+    "postcss": "8"
   },
   "peerDependencies": {
     "@stencil/core": "^1.0.2"
